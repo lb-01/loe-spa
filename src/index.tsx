@@ -3,7 +3,7 @@ import { render } from 'preact';
 import './style.css';
 
 export function App() {
-	const name = "Lykke";
+	const name = "Eghoj";
 	return (
 		<div
 			class="app"
