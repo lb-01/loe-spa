@@ -3,7 +3,7 @@ import './style.css';
 import { Calculator } from './Calculator'; // Remember to import the Calculator component
 
 export function App() {
-    const name = "loe";
+    const name = "Eghoj";
 
     return (
         <div
