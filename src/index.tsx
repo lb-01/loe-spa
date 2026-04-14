@@ -1,3 +1,4 @@
+import { render } from 'preact';
 import './style.css';
 import { Calculator } from './Calculator'; // Remember to import the Calculator component
 
